@@ -1,0 +1,13 @@
+toc:
+  properties:
+    subcollection: quantum-computing-cli-plugin
+    audience: service
+    href: /docs/quantum-computing-cli-plugin
+    path: quantum-computing-cli-plugin
+    label: Qiskit Runtime CLI
+
+  entries:
+  - navgroup:
+      id: reference
+      topics:
+      - quantum-services-cli.md
